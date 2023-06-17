@@ -51,5 +51,5 @@ https://github.com/AntonOsika/gpt-engineer/assets/4467025/6e362e45-4a94-4b0d-973
 
 ## Demo Snake Game
 
-<img src=![SnakeGame](https://github.com/caveligh/gpt-engineer/assets/8608495/b2ef7662-31a8-4a1d-8aaa-4ec96b1c2cf5)" alt="Descripción del gif" style="width:100%;">
+<img src="https://github.com/caveligh/gpt-engineer/assets/8608495/b2ef7662-31a8-4a1d-8aaa-4ec96b1c2cf5" alt="Snake Game" style="width:100%;">
 
