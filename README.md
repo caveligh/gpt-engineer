@@ -49,6 +49,9 @@ Each step in steps.py will have its communication history with GPT4 stored in th
 
 https://github.com/AntonOsika/gpt-engineer/assets/4467025/6e362e45-4a94-4b0d-973d-393a31d92d9b
 
+## Demo Snake Game
+
+<img src="https://github.com/caveligh/gpt-engineer/assets/8608495/b2ef7662-31a8-4a1d-8aaa-4ec96b1c2cf5" alt="Snake Game" style="width:100%;">
 
 ## Demo Snake Game
 
